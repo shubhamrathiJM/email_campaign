@@ -1,1 +1,1 @@
-# email_campaign
+ onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"
